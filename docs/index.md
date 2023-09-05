@@ -27,9 +27,9 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
+* Daniel Chen
+* Daniel ZOu
+* Danilo Ye
 * Aluno 4
 * Aluno 5
 * Aluno 6
